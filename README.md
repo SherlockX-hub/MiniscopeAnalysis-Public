@@ -5,6 +5,6 @@ Replace the following files in the dependency packages with the corrected versio
 
 | File | Location to replace |
 |------|---------------------|
-| `read_file.m` | `NoRMCorre/` |
+| `read_file.m` | `NoRMCorre-master/` |
 | `get_data_dimension.m` | `CNMF_E-master/ca_source_extraction/endoscope/` |
 | `smod_bigread2.m` | `CNMF_E-master/ca_source_extraction/utilities/` |
